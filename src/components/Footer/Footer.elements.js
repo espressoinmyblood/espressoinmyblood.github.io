@@ -29,10 +29,10 @@ font-size: 24px;
 `;
 
 export const FooterSubText = styled.div`
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
 `;
 
 export const FooterLinksContainer = styled.div`
@@ -40,6 +40,7 @@ width: 100%;
 max-width: 1000px;
 display: flex;
 justify-content: center;
+text-align: center;
 
 @media screen and (max-width: 820px) {
     padding-top: 32px;
@@ -47,11 +48,10 @@ justify-content: center;
 `;
 
 export const FooterLinksWrapper = styled.div`
-/* background-color: tomato; */
 display: flex;
 align-items: center;
-    justify-content: center;
-    flex-direction: column;
+justify-content: center;
+flex-direction: column;
 
 @media screen and (max-width: 820px) {
     flex-direction: column;
