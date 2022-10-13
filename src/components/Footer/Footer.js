@@ -27,7 +27,7 @@ const Footer = () => {
             <FooterLinksWrapper>
                 <FooterLinkText>Also, check out my profiles:</FooterLinkText>
                 <FooterLinksItems>
-                    <FooterLink href={'https://www.https://www.linkedin.com/in/espressoinmyblood/'} target="_blank">LinkedIn</FooterLink>
+                    <FooterLink href={'https://www.linkedin.com/in/espressoinmyblood/'} target="_blank">LinkedIn</FooterLink>
                     <FooterLink href={'https://github.com/espressoinmyblood'} target="_blank">GitHub</FooterLink>
                 </FooterLinksItems>
             </FooterLinksWrapper>
